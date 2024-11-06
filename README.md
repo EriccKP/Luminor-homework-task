@@ -31,5 +31,6 @@ The following variables are required for deployment:
 * `webhook_secret`: The GitHub webhook secret for Atlantis.
 * `github_username`: The GitHub username for Atlantis.
 * `orgAllowlist`: The GitHub org allowlist for Atlantis.
+* `region`: The AWS region to deploy the cluster in.
 
 
